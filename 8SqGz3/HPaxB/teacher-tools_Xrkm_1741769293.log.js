@@ -35,7 +35,6 @@ module.exports = {
       2,
       {
         CallExpression: { arguments: 'first' },
-        ignoredNodes: [
           'CallExpression > CallExpression',
           'CallExpression > MemberExpression'
         ],
