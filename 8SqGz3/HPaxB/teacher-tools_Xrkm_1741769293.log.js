@@ -7,7 +7,6 @@ module.exports = {
   extends: ['google', 'prettier'],
   plugins: ['prettier'],
   globals: {
-    Atomics: 'readonly',
     SharedArrayBuffer: 'readonly'
   },
   parserOptions: {
