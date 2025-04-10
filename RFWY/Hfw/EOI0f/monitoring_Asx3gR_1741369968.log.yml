@@ -17,5 +17,4 @@ targets:
     name: docker
     source: ghcr.io/getsentry/sentry-self-hosted
     target: getsentry/sentry
-    targetFormat: '{{{target}}}:latest'
   - name: github
