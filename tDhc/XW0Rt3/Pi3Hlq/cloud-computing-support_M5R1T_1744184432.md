@@ -17,7 +17,6 @@ reported the issue. Please try to include as much information as you can. Detail
 * A reproducible test case or series of steps
 * The version of our code being used
 * Any modifications you've made relevant to the bug
-* Anything unusual about your environment or deployment
 
 
 ## Contributing via Pull Requests
